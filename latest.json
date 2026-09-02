@@ -1,6 +1,7 @@
 {
-  "version": "1.1.0",
-  "packageUrl": "https://github.com/M4ni0/M4Gh2-Updates/releases/download/v1.1.0/M4Gh2-1.1.0.zip",
-  "sha256": "71D4CE48483D9DD6BE24167E0252347A33229183DC8B7647C803D78B1D41565F",
-  "releaseNotes": "Dodano ręczne sprawdzanie aktualizacji i bezpieczny patcher."
+  "Version": "1.1.3",
+  "PackageUrl": "https://github.com/M4ni0/M4Gh2-Updates/releases/download/v1.1.3/M4Gh2-1.1.3.zip",
+  "Sha256": "2683F68BB78C1AE7FEF822A337F674455491C7375760C14A72404EF3E5569DCF",
+  "ReleaseNotes": "Poprawki interfejsu, ikony oraz zabezpiecze\u0144 aktualizacji.",
+  "Signature": "chEc96uIzI/0UZSVGQhMaFBkX7JKLB8o\u002BpgO6TG2fgJzhsCw\u002BsqOHZkN1oGB3NeCAnaYzXXy34rSFGANysQlsxkBDrLW\u002BtbwZOKR8TTgbbBHja\u002BwaScAirdX4YJnwpAbOf121nhvSEss\u002BmCRcwGQ9X9NtkEa\u002BtNQqkbARtvqzdyozMMX7gjH0DLPMDXI6KEawLAO6qeAZLd0Bc1lmhwmj2y40zKLYnfJj5cwuwEmTSfIVg4MJqbRJIDjWqjq2tZkaNzdwIAmSbP9M7PZguu3ZWKzQUhrc6M8NcbShpVatD3tBDqFO7vy7XxSZAd1mxrsyizD0tb8oaPtykQxYyWngiDbE/R4kxS\u002BxOjRRCjxbUag2autFche1GDtdVmu33\u002BUNxEHhJ0yXlILAygjBcq2EP3ZzzOKstm2YMs7UYMC8QZRgYHPdQCOy87/kKVtAgbelIVK2ZLv8/mfD/vcH8RShfrkglhCTutOgImRj6/lvOgodli\u002B\u002BnUh8XyBBMzwIc/D"
 }
