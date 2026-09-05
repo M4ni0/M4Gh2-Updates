@@ -1,6 +1,7 @@
 {
-    "version":  "2.2.3",
-    "packageUrl":  "https://github.com/M4ni0/M4Gh2-Updates/releases/download/v2.2.3/M4Gh2-2.2.3.zip",
-    "sha256":  "C196414345BC3E517F6E8376DD0BCA20C3446A23D1F9AB34597125BFD9E73807",
-    "releaseNotes":  "poprawki funkcji i stabilności."
+  "Version": "2.2.3",
+  "PackageUrl": "https://github.com/M4ni0/M4Gh2-Updates/releases/download/v2.2.3/M4Gh2-2.2.3.zip",
+  "Sha256": "C196414345BC3E517F6E8376DD0BCA20C3446A23D1F9AB34597125BFD9E73807",
+  "ReleaseNotes": "poprawki wygladu, poprawki funkcji i stabilnosci.",
+  "Signature": "VVzU8FPDrjpV8x/0DloaGE6zRnEuVhlCLfrIn0XmaKlSUDvVi6cYXRyICQsEuTiwuMsHEdA7tAYmIGu9/gWtPLQFX1JjJ5Z3DvsgFw0J5YkhwrKeC3N14tPh9fo1GYeFkB/KhlOG0vAeDB1D7QA9sCNyFJGttzChZgQ\u002B8Xy99ckZPryBHCf97z59uVgXC0dgxDk27A350cF2FEbUnTlZjzyGYXMSNejlMKsEEqQ6fGtsNc6Somxi1q\u002B/VMxOKqe/FIbHKoRXOb7ovu9\u002B9cPFXRkOxFDj/GfRp\u002BETvZTE\u002BC\u002B/asPObIIQuFc8NPeIXwj4sei40ukd2uMYbFDovcz4cp6ZJn7GOY2JQz78/YmGGm9FIAj6VKuOhPRwJ1lxBn3F8c4KrnPbMMgOaXixMnGXHI5MbNWc/hodhZnb3tL751g815ZCYQnwk2Wn\u002BWfYiG9rlr8G3zJlx35pxzafkpnlERFTCADx5yM3bm3IYdB2K\u002BnJk16Cy3Qjl1y41QbtZrRc"
 }
